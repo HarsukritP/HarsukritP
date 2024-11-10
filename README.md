@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HarsukritP
-- 👀 I’m interested in ... Game Development, Data Science and AI
-- 🌱 I’m currently learning ... C#, Unity, Python
-- 💞️ I’m looking to collaborate on ... Indie Game Development Projects
+- 👀 I’m interested in ... Machine Learning, Sofware Development, Hardware Engineering and AI
+- 🌱 I’m currently learning ... C#, Unity, Python, C++
+- 💞️ I’m looking to collaborate on ... LLM, ML, AI Projects
 - 📫 How to reach me ... harsukritspall@gmail.com
 
 <!---
